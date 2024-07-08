@@ -1,0 +1,16 @@
+/*
+DML = DATA MANIPULATION LANGUAGE
+
+SELECT
+INSERT
+UPDATE
+DELETE
+
+
+SINTAXIS DELETE
+
+DELETE FROM table_name WHERE condition;
+
+*/
+
+DELETE FROM roles WHERE active=false;
